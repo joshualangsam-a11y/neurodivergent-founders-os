@@ -39,10 +39,10 @@ claude-code = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/joshlangsam/nd-os"
-Documentation = "https://github.com/joshlangsam/nd-os#readme"
-Repository = "https://github.com/joshlangsam/nd-os"
-Issues = "https://github.com/joshlangsam/nd-os/issues"
+Homepage = "https://github.com/joshualangsam-a11y/neurodivergent-founders-os"
+Documentation = "https://github.com/joshualangsam-a11y/neurodivergent-founders-os#readme"
+Repository = "https://github.com/joshualangsam-a11y/neurodivergent-founders-os"
+Issues = "https://github.com/joshualangsam-a11y/neurodivergent-founders-os/issues"
 
 [tool.setuptools]
 packages = ["nd_os", "nd_os.hooks"]
