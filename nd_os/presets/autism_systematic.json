@@ -1,0 +1,21 @@
+{
+  "nd_type": "autism_systematic",
+  "name": "Autism Systematic Thinker",
+  "energy_pattern": "morning_peak",
+  "mud_hours_start": 19,
+  "mud_hours_end": 8,
+  "peak_hours_start": 8,
+  "peak_hours_end": 13,
+  "coast_hours": [13, 15, 18],
+  "switch_cost_minutes": 30,
+  "momentum_decay_hours": 1.5,
+  "min_parallel_tracks": 2,
+  "max_parallel_tracks": 3,
+  "prefers_music": false,
+  "music_tempo_bpm": null,
+  "noise_sensitivity": 0.1,
+  "thermal_threshold_minutes": 120,
+  "thermal_recovery_minutes": 20,
+  "translation_preferred_format": "structured",
+  "ai_bandwidth_expander": true
+}

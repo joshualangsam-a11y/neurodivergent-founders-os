@@ -1,0 +1,21 @@
+{
+  "nd_type": "dyslexia_visual",
+  "name": "Dyslexia Visual Thinker",
+  "energy_pattern": "bimodal",
+  "mud_hours_start": 11,
+  "mud_hours_end": 14,
+  "peak_hours_start": 8,
+  "peak_hours_end": 11,
+  "coast_hours": [14, 18, 21],
+  "switch_cost_minutes": 35,
+  "momentum_decay_hours": 1.8,
+  "min_parallel_tracks": 2,
+  "max_parallel_tracks": 4,
+  "prefers_music": true,
+  "music_tempo_bpm": 110,
+  "noise_sensitivity": 0.4,
+  "thermal_threshold_minutes": 100,
+  "thermal_recovery_minutes": 25,
+  "translation_preferred_format": "sketches",
+  "ai_bandwidth_expander": true
+}

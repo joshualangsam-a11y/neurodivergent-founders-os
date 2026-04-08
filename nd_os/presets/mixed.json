@@ -1,0 +1,21 @@
+{
+  "nd_type": "mixed",
+  "name": "Mixed ND (ADHD + Dyslexia)",
+  "energy_pattern": "bimodal",
+  "mud_hours_start": 6,
+  "mud_hours_end": 10,
+  "peak_hours_start": 14,
+  "peak_hours_end": 20,
+  "coast_hours": [10, 12, 21],
+  "switch_cost_minutes": 45,
+  "momentum_decay_hours": 2.0,
+  "min_parallel_tracks": 3,
+  "max_parallel_tracks": 5,
+  "prefers_music": true,
+  "music_tempo_bpm": 120,
+  "noise_sensitivity": 0.6,
+  "thermal_threshold_minutes": 90,
+  "thermal_recovery_minutes": 30,
+  "translation_preferred_format": "voice",
+  "ai_bandwidth_expander": true
+}

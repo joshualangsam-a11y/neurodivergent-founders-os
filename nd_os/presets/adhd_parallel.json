@@ -1,0 +1,21 @@
+{
+  "nd_type": "adhd_parallel",
+  "name": "ADHD Parallel Processor",
+  "energy_pattern": "afternoon_peak",
+  "mud_hours_start": 5,
+  "mud_hours_end": 10,
+  "peak_hours_start": 14,
+  "peak_hours_end": 22,
+  "coast_hours": [9, 12, 23],
+  "switch_cost_minutes": 45,
+  "momentum_decay_hours": 2.0,
+  "min_parallel_tracks": 3,
+  "max_parallel_tracks": 6,
+  "prefers_music": true,
+  "music_tempo_bpm": 128,
+  "noise_sensitivity": 0.7,
+  "thermal_threshold_minutes": 90,
+  "thermal_recovery_minutes": 30,
+  "translation_preferred_format": "voice",
+  "ai_bandwidth_expander": true
+}
